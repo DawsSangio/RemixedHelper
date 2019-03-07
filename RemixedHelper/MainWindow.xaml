@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="RemixedHelper - Daws 2019" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Label" HorizontalAlignment="Left" Height="28" Margin="10,10,0,0" VerticalAlignment="Top" Width="442"/>
+
     </Grid>
 </Window>
